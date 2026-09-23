@@ -11,13 +11,14 @@
             "id": "7b7a9b56dd7207e8",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Sin título.base",
-                "viewName": "Tabla"
+                "file": "product/interview-guides/2026-09-22-2132-colaboracion-fuera-de-teams.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Sin título"
+              "icon": "lucide-file",
+              "title": "2026-09-22-2132-colaboracion-fuera-de-teams"
             }
           }
         ]
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sin título.base",
+                "file": "product/interview-guides/2026-09-22-2132-colaboracion-fuera-de-teams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +189,21 @@
   },
   "active": "7b7a9b56dd7207e8",
   "lastOpenFiles": [
+    "product/personas/02-ruben-salgado.md",
+    "product/personas/03-priya-raman.md",
+    "product/personas/01-carolina-duarte.md",
+    "product/interview-guides/2026-09-22-2132-colaboracion-fuera-de-teams.md",
+    "product/opportunities/2026-09-23-0000-colaboracion-fuera-de-teams.md",
+    "product/interview-guides",
+    "product/surveys/2026-09-22-2126-consolidacion-y-participacion.md",
+    "product/surveys",
+    "product/research/2026-09-23-0010-co-crear-en-la-reunion.md",
+    "product/research",
+    "product/overview.md",
+    "product/opportunities/desktop.ini",
+    "product/opportunities",
     "Sin título.base",
-    "Bienvenido.md"
+    "Bienvenido.md",
+    "product"
   ]
 }
